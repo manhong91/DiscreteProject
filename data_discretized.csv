@@ -1,0 +1,287 @@
+HomeTeamName,AwayTeamName,Result,HomeAverageGoals,AwayAverageGoals,Home5LastGames,Away5LastGames,Stage,City,Year
+France,Yugoslavia,Lost,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Semi-finals,Paris,1960
+Czechoslovakia,Soviet Union,Lost,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Semi-finals,Marseille,1960
+Czechoslovakia,France,Won,Low,High,Bad,Bad,Third place play-off,Marseille,1960
+Soviet Union,Yugoslavia,Won,High,High,Good,Good,Final,Paris,1960
+Spain,Hungary,Won,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Semi-finals,Madrid,1964
+Denmark,Soviet Union,Lost,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Semi-finals,Barcelona,1964
+Hungary,Denmark,Won,Mid,Low,Bad,Bad,Third place play-off,Barcelona,1964
+Spain,Soviet Union,Won,High,High,Good,Good,Final,Madrid,1964
+Italy,Soviet Union,Draw,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Semi-finals,Naples,1968
+Yugoslavia,England,Won,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Semi-finals,Florence,1968
+England,Soviet Union,Won,Low,Low,Bad,Neutral,Third place play-off,Rome,1968
+Italy,Yugoslavia,Draw,Low,Mid,Neutral,Good,Final,Rome,1968
+Italy,Yugoslavia,Won,Low,Mid,Neutral,Good,Final,Rome,1968
+Hungary,Soviet Union,Lost,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Semi-finals,Brussels,1972
+Belgium,West Germany,Lost,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Semi-finals,Antwerp,1972
+Hungary,Belgium,Lost,Low,Mid,Bad,Bad,Third place play-off,Liège,1972
+West Germany,Soviet Union,Won,High,Mid,Good,Good,Final,Brussels,1972
+Czechoslovakia,Netherlands,Won,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Semi-finals,Zagreb,1976
+Yugoslavia,West Germany,Lost,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Semi-finals,Belgrade,1976
+Netherlands,Yugoslavia,Won,Mid,High,Bad,Bad,Third place play-off,Zagreb,1976
+Czechoslovakia,West Germany,Draw,High,High,Good,Good,Final,Belgrade,1976
+Czechoslovakia,West Germany,Lost,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group A,Rome,1980
+Netherlands,Greece,Won,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group A,Naples,1980
+West Germany,Netherlands,Won,Mid,Mid,Good,Good,Group A,Naples,1980
+Greece,Czechoslovakia,Lost,Low,Low,Bad,Bad,Group A,Rome,1980
+Netherlands,Czechoslovakia,Draw,High,High,Neutral,Neutral,Group A,Milan,1980
+Greece,West Germany,Draw,Low,High,Bad,Good,Group A,Turin,1980
+Belgium,England,Draw,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group B,Turin,1980
+Spain,Italy,Draw,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group B,Milan,1980
+Belgium,Spain,Won,Mid,Low,Neutral,Neutral,Group B,Milan,1980
+England,Italy,Lost,Mid,Low,Neutral,Neutral,Group B,Turin,1980
+Spain,England,Lost,Low,Low,Bad,Bad,Group B,Naples,1980
+Italy,Belgium,Draw,Low,High,Good,Good,Group B,Rome,1980
+Czechoslovakia,Italy,Draw,Mid,Low,Neutral,Good,Third place play-off,Naples,1980
+Belgium,West Germany,Lost,Mid,Mid,Good,Good,Final,Rome,1980
+France,Denmark,Won,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group A,Paris,1984
+Belgium,Yugoslavia,Won,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group A,Lens,1984
+France,Belgium,Won,Mid,High,Good,Good,Group A,Nantes,1984
+Denmark,Yugoslavia,Won,Low,Low,Bad,Bad,Group A,Lyon,1984
+France,Yugoslavia,Won,High,Low,Good,Bad,Group A,Saint-Étienne,1984
+Denmark,Belgium,Won,High,Mid,Neutral,Neutral,Group A,Strasbourg,1984
+West Germany,Portugal,Draw,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group B,Strasbourg,1984
+Romania,Spain,Draw,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group B,Saint-Étienne,1984
+West Germany,Romania,Won,Low,Mid,Neutral,Neutral,Group B,Lens,1984
+Portugal,Spain,Draw,Low,Mid,Neutral,Neutral,Group B,Marseille,1984
+West Germany,Spain,Lost,Mid,Mid,Good,Neutral,Group B,Paris,1984
+Portugal,Romania,Won,Low,Mid,Neutral,Bad,Group B,Nantes,1984
+France,Portugal,Won,High,Low,Good,Good,Semi-finals,Marseille,1984
+Denmark,Spain,Draw,High,Mid,Good,Good,Semi-finals,Lyon,1984
+France,Spain,Won,High,Mid,Good,Good,Final,Paris,1984
+West Germany,Italy,Draw,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group A,Düsseldorf,1988
+Denmark,Spain,Lost,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group A,Hanover,1988
+West Germany,Denmark,Won,Mid,High,Neutral,Bad,Group A,Gelsenkirchen,1988
+Italy,Spain,Won,Mid,High,Neutral,Good,Group A,Frankfurt,1988
+West Germany,Spain,Won,High,High,Good,Neutral,Group A,Munich,1988
+Italy,Denmark,Won,Mid,Mid,Good,Bad,Group A,Cologne,1988
+England,Republic of Ireland,Lost,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group B,Stuttgart,1988
+Netherlands,Soviet Union,Lost,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group B,Cologne,1988
+England,Netherlands,Lost,Low,Low,Bad,Bad,Group B,Düsseldorf,1988
+Republic of Ireland,Soviet Union,Draw,Mid,Mid,Good,Good,Group B,Hanover,1988
+England,Soviet Union,Lost,Low,Mid,Bad,Good,Group B,Frankfurt,1988
+Republic of Ireland,Netherlands,Lost,Mid,High,Good,Neutral,Group B,Gelsenkirchen,1988
+West Germany,Netherlands,Lost,High,Mid,Good,Good,Semi-finals,Hamburg,1988
+Soviet Union,Italy,Won,High,Mid,Good,Good,Semi-finals,Stuttgart,1988
+Soviet Union,Netherlands,Lost,High,High,Good,Good,Final,Munich,1988
+Sweden,France,Draw,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group A,Solna,1992
+Denmark,England,Draw,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group A,Malmö,1992
+France,England,Draw,Mid,Low,Neutral,Neutral,Group A,Malmö,1992
+Sweden,Denmark,Won,Mid,Low,Neutral,Neutral,Group A,Solna,1992
+Sweden,England,Won,Mid,Low,Good,Neutral,Group A,Solna,1992
+France,Denmark,Lost,Low,Low,Neutral,Bad,Group A,Malmö,1992
+Netherlands,Scotland,Won,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group B,Gothenburg,1992
+CIS,Germany,Draw,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group B,Norrköping,1992
+Scotland,Germany,Lost,Low,Mid,Bad,Neutral,Group B,Norrköping,1992
+Netherlands,CIS,Draw,Mid,Mid,Good,Neutral,Group B,Gothenburg,1992
+Netherlands,Germany,Won,Low,High,Good,Good,Group B,Gothenburg,1992
+Scotland,CIS,Won,Low,Low,Bad,Neutral,Group B,Norrköping,1992
+Sweden,Germany,Lost,Mid,Mid,Good,Neutral,Semi-finals,Solna,1992
+Netherlands,Denmark,Draw,Mid,Low,Good,Neutral,Semi-finals,Gothenburg,1992
+Denmark,Germany,Won,Mid,High,Neutral,Good,Final,Gothenburg,1992
+England,Switzerland,Draw,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group A,London,1996
+Netherlands,Scotland,Draw,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group A,Birmingham,1996
+Switzerland,Netherlands,Lost,Mid,Low,Neutral,Neutral,Group A,Birmingham,1996
+Scotland,England,Lost,Low,Mid,Neutral,Neutral,Group A,London,1996
+Scotland,Switzerland,Won,Low,Low,Bad,Bad,Group A,Birmingham,1996
+Netherlands,England,Lost,Mid,High,Good,Good,Group A,London,1996
+Spain,Bulgaria,Draw,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group B,Leeds,1996
+Romania,France,Lost,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group B,Newcastle,1996
+Bulgaria,Romania,Won,Mid,Low,Neutral,Bad,Group B,Newcastle,1996
+France,Spain,Draw,Mid,Mid,Good,Neutral,Group B,Leeds,1996
+France,Bulgaria,Won,Mid,Mid,Good,Good,Group B,Newcastle,1996
+Romania,Spain,Lost,Low,Mid,Bad,Neutral,Group B,Leeds,1996
+Germany,Czech Republic,Won,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group C,Manchester,1996
+Italy,Russia,Won,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group C,Liverpool,1996
+Czech Republic,Italy,Won,Low,High,Bad,Good,Group C,Liverpool,1996
+Russia,Germany,Lost,Mid,High,Bad,Good,Group C,Manchester,1996
+Russia,Czech Republic,Draw,Low,Mid,Bad,Neutral,Group C,Liverpool,1996
+Italy,Germany,Draw,High,High,Neutral,Good,Group C,Manchester,1996
+Denmark,Portugal,Draw,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group D,Sheffield,1996
+Turkey,Croatia,Lost,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group D,Nottingham,1996
+Portugal,Turkey,Won,Mid,Low,Neutral,Bad,Group D,Nottingham,1996
+Croatia,Denmark,Won,Mid,Mid,Good,Neutral,Group D,Sheffield,1996
+Croatia,Portugal,Lost,High,Mid,Good,Good,Group D,Nottingham,1996
+Turkey,Denmark,Lost,Low,Low,Bad,Bad,Group D,Sheffield,1996
+Spain,England,Draw,Mid,High,Good,Good,Quarter-finals,London,1996
+France,Netherlands,Draw,High,Mid,Good,Neutral,Quarter-finals,Liverpool,1996
+Germany,Croatia,Won,High,Mid,Good,Good,Quarter-finals,Manchester,1996
+Czech Republic,Portugal,Won,High,High,Neutral,Good,Quarter-finals,Birmingham,1996
+France,Czech Republic,Draw,Mid,High,Good,Good,Semi-finals,Manchester,1996
+Germany,England,Draw,High,High,Good,Good,Semi-finals,London,1996
+Czech Republic,Germany,Lost,Mid,High,Good,Good,Final,London,1996
+Germany,Romania,Draw,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group A,Liège,2000
+Portugal,England,Won,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group A,Eindhoven,2000
+Romania,Portugal,Lost,Mid,High,Neutral,Good,Group A,Arnhem,2000
+England,Germany,Won,High,Mid,Bad,Neutral,Group A,Charleroi,2000
+England,Romania,Lost,High,Low,Neutral,Bad,Group A,Charleroi,2000
+Portugal,Germany,Won,High,Low,Good,Bad,Group A,Rotterdam,2000
+Belgium,Sweden,Won,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group B,Brussels,2000
+Turkey,Italy,Lost,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group B,Arnhem,2000
+Italy,Belgium,Won,High,High,Good,Good,Group B,Brussels,2000
+Sweden,Turkey,Draw,Mid,Mid,Bad,Bad,Group B,Eindhoven,2000
+Turkey,Belgium,Won,Low,Mid,Bad,Neutral,Group B,Brussels,2000
+Italy,Sweden,Won,High,Low,Good,Bad,Group B,Eindhoven,2000
+Spain,Norway,Lost,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group C,Rotterdam,2000
+FR Yugoslavia,Slovenia,Draw,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group C,Charleroi,2000
+Slovenia,Spain,Lost,High,Low,Neutral,Bad,Group C,Amsterdam,2000
+Norway,FR Yugoslavia,Lost,Mid,High,Good,Neutral,Group C,Liège,2000
+FR Yugoslavia,Spain,Lost,High,Mid,Good,Neutral,Group C,Bruges,2000
+Slovenia,Norway,Draw,High,Low,Bad,Neutral,Group C,Arnhem,2000
+France,Denmark,Won,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group D,Bruges,2000
+Netherlands,Czech Republic,Won,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group D,Amsterdam,2000
+Czech Republic,France,Lost,Low,High,Bad,Good,Group D,Bruges,2000
+Denmark,Netherlands,Lost,Low,Mid,Bad,Good,Group D,Rotterdam,2000
+Denmark,Czech Republic,Lost,Low,Low,Bad,Bad,Group D,Liège,2000
+France,Netherlands,Lost,High,High,Good,Good,Group D,Amsterdam,2000
+Turkey,Portugal,Lost,Mid,High,Neutral,Good,Quarter-finals,Amsterdam,2000
+Italy,Romania,Won,High,Mid,Good,Neutral,Quarter-finals,Brussels,2000
+Netherlands,FR Yugoslavia,Won,High,High,Good,Neutral,Quarter-finals,Rotterdam,2000
+Spain,France,Lost,High,High,Good,Good,Quarter-finals,Bruges,2000
+France,Portugal,Won,High,High,Good,Good,Semi-finals,Brussels,2000
+Italy,Netherlands,Draw,High,High,Good,Good,Semi-finals,Amsterdam,2000
+France,Italy,Won,High,High,Good,Good,Final,Rotterdam,2000
+Portugal,Greece,Lost,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group A,Porto,2004
+Spain,Russia,Won,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group A,Faro/Loulé,2004
+Greece,Spain,Draw,High,Mid,Good,Good,Group A,Porto,2004
+Russia,Portugal,Lost,Low,Mid,Bad,Bad,Group A,Lisbon,2004
+Spain,Portugal,Lost,Mid,High,Good,Neutral,Group A,Lisbon,2004
+Russia,Greece,Won,Low,High,Bad,Good,Group A,Faro/Loulé,2004
+Switzerland,Croatia,Draw,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group B,Leiria,2004
+France,England,Won,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group B,Lisbon,2004
+England,Switzerland,Won,Mid,Low,Bad,Neutral,Group B,Coimbra,2004
+Croatia,France,Draw,Low,High,Neutral,Good,Group B,Leiria,2004
+Croatia,England,Lost,Mid,High,Neutral,Neutral,Group B,Lisbon,2004
+Switzerland,France,Lost,Low,High,Bad,Good,Group B,Coimbra,2004
+Denmark,Italy,Draw,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group C,Guimarães,2004
+Sweden,Bulgaria,Won,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group C,Lisbon,2004
+Bulgaria,Denmark,Lost,Low,Low,Bad,Neutral,Group C,Braga,2004
+Italy,Sweden,Draw,Low,High,Neutral,Good,Group C,Porto,2004
+Italy,Bulgaria,Won,Low,Low,Neutral,Bad,Group C,Guimarães,2004
+Denmark,Sweden,Draw,Mid,High,Good,Good,Group C,Porto,2004
+Czech Republic,Latvia,Won,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group D,Aveiro,2004
+Germany,Netherlands,Draw,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group D,Porto,2004
+Latvia,Germany,Draw,Mid,Mid,Bad,Neutral,Group D,Porto,2004
+Netherlands,Czech Republic,Lost,Mid,High,Neutral,Good,Group D,Aveiro,2004
+Netherlands,Latvia,Won,High,Low,Bad,Bad,Group D,Braga,2004
+Germany,Czech Republic,Lost,Low,High,Neutral,Good,Group D,Lisbon,2004
+Portugal,England,Draw,Mid,High,Good,Good,Quarter-finals,Lisbon,2004
+France,Greece,Lost,High,Mid,Good,Neutral,Quarter-finals,Lisbon,2004
+Sweden,Netherlands,Draw,High,High,Good,Neutral,Quarter-finals,Faro/Loulé,2004
+Czech Republic,Denmark,Won,High,Mid,Good,Good,Quarter-finals,Porto,2004
+Portugal,Netherlands,Won,High,High,Good,Neutral,Semi-finals,Lisbon,2004
+Greece,Czech Republic,Won,Mid,High,Good,Good,Semi-finals,Porto,2004
+Portugal,Greece,Lost,High,Mid,Good,Good,Final,Lisbon,2004
+Switzerland,Czech Republic,Lost,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group A,Basel,2008
+Portugal,Turkey,Won,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group A,Geneva,2008
+Czech Republic,Portugal,Lost,Mid,High,Good,Good,Group A,Geneva,2008
+Switzerland,Turkey,Lost,Low,Low,Bad,Bad,Group A,Basel,2008
+Switzerland,Portugal,Won,Low,High,Bad,Good,Group A,Basel,2008
+Turkey,Czech Republic,Won,Mid,Mid,Neutral,Neutral,Group A,Geneva,2008
+Austria,Croatia,Lost,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group B,Vienna,2008
+Germany,Poland,Won,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group B,Klagenfurt,2008
+Croatia,Germany,Won,Mid,High,Good,Good,Group B,Klagenfurt,2008
+Austria,Poland,Draw,Low,Low,Bad,Bad,Group B,Vienna,2008
+Poland,Croatia,Lost,Low,High,Bad,Good,Group B,Klagenfurt,2008
+Austria,Germany,Lost,Low,High,Bad,Neutral,Group B,Vienna,2008
+Romania,France,Draw,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group C,Zürich,2008
+Netherlands,Italy,Won,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group C,Bern,2008
+Italy,Romania,Draw,Low,Low,Bad,Neutral,Group C,Zürich,2008
+Netherlands,France,Won,High,Low,Good,Neutral,Group C,Bern,2008
+Netherlands,Romania,Won,High,Low,Good,Neutral,Group C,Bern,2008
+France,Italy,Lost,Low,Low,Bad,Bad,Group C,Zürich,2008
+Spain,Russia,Won,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group D,Innsbruck,2008
+Greece,Sweden,Lost,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group D,Salzburg,2008
+Sweden,Spain,Lost,High,High,Good,Good,Group D,Innsbruck,2008
+Greece,Russia,Lost,Low,Mid,Bad,Bad,Group D,Salzburg,2008
+Greece,Spain,Lost,Low,High,Bad,Good,Group D,Salzburg,2008
+Russia,Sweden,Won,Mid,High,Neutral,Neutral,Group D,Innsbruck,2008
+Portugal,Germany,Lost,High,Mid,Good,Good,Quarter-finals,Basel,2008
+Croatia,Turkey,Draw,Mid,High,Good,Good,Quarter-finals,Vienna,2008
+Netherlands,Russia,Lost,High,Mid,Good,Good,Quarter-finals,Basel,2008
+Spain,Italy,Draw,High,Mid,Good,Neutral,Quarter-finals,Vienna,2008
+Germany,Turkey,Won,High,High,Good,Good,Semi-finals,Basel,2008
+Russia,Spain,Lost,High,High,Good,Good,Semi-finals,Vienna,2008
+Germany,Spain,Lost,High,High,Good,Good,Final,Vienna,2008
+Poland,Greece,Draw,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group A,Warsaw,2012
+Russia,Czech Republic,Won,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group A,Wrocław,2012
+Greece,Czech Republic,Lost,Mid,Mid,Neutral,Bad,Group A,Wrocław,2012
+Poland,Russia,Draw,Mid,High,Neutral,Good,Group A,Warsaw,2012
+Czech Republic,Poland,Won,High,Mid,Neutral,Neutral,Group A,Wrocław,2012
+Greece,Russia,Won,Mid,High,Bad,Good,Group A,Warsaw,2012
+Netherlands,Denmark,Lost,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group B,Kharkiv,2012
+Germany,Portugal,Won,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group B,Lviv,2012
+Denmark,Portugal,Lost,Mid,Low,Good,Bad,Group B,Lviv,2012
+Netherlands,Germany,Lost,Low,Mid,Bad,Good,Group B,Kharkiv,2012
+Portugal,Netherlands,Won,High,Low,Neutral,Bad,Group B,Kharkiv,2012
+Denmark,Germany,Lost,High,High,Neutral,Good,Group B,Lviv,2012
+Spain,Italy,Draw,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group C,Gdańsk,2012
+Republic of Ireland,Croatia,Lost,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group C,Poznań,2012
+Italy,Croatia,Draw,Mid,High,Neutral,Good,Group C,Poznań,2012
+Spain,Republic of Ireland,Won,Mid,Mid,Neutral,Bad,Group C,Gdańsk,2012
+Croatia,Spain,Lost,High,High,Good,Good,Group C,Gdańsk,2012
+Italy,Republic of Ireland,Won,Mid,Low,Neutral,Bad,Group C,Poznań,2012
+France,England,Draw,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group D,Donetsk,2012
+Ukraine,Sweden,Won,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group D,Kiev,2012
+Ukraine,France,Lost,High,Mid,Good,Neutral,Group D,Donetsk,2012
+Sweden,England,Lost,Mid,Mid,Bad,Neutral,Group D,Kiev,2012
+England,Ukraine,Won,High,Mid,Good,Neutral,Group D,Donetsk,2012
+Sweden,France,Won,High,High,Bad,Good,Group D,Kiev,2012
+Czech Republic,Portugal,Lost,Mid,High,Good,Good,Quarter-finals,Warsaw,2012
+Germany,Greece,Won,High,Mid,Good,Neutral,Quarter-finals,Gdańsk,2012
+Spain,France,Won,High,Mid,Good,Neutral,Quarter-finals,Donetsk,2012
+England,Italy,Draw,High,Mid,Good,Good,Quarter-finals,Kiev,2012
+Portugal,Spain,Draw,High,High,Good,Good,Semi-finals,Donetsk,2012
+Germany,Italy,Lost,High,Mid,Good,Good,Semi-finals,Warsaw,2012
+Spain,Italy,Won,High,Mid,Good,Good,Final,Kiev,2012
+France,Romania,Won,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group A,Saint-Denis,2016
+Albania,Switzerland,Lost,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group A,Lens,2016
+Romania,Switzerland,Draw,Mid,Mid,Bad,Good,Group A,Paris,2016
+France,Albania,Won,High,Low,Good,Bad,Group A,Marseille,2016
+Romania,Albania,Lost,Mid,Low,Bad,Bad,Group A,Décines-Charpieu,2016
+Switzerland,France,Draw,Mid,High,Good,Good,Group A,Villeneuve-d'Ascq,2016
+Wales,Slovakia,Won,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group B,Bordeaux,2016
+England,Russia,Draw,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group B,Marseille,2016
+Russia,Slovakia,Lost,Mid,Mid,Neutral,Bad,Group B,Villeneuve-d'Ascq,2016
+England,Wales,Won,Mid,High,Neutral,Good,Group B,Lens,2016
+Russia,Wales,Lost,Mid,High,Bad,Neutral,Group B,Toulouse,2016
+Slovakia,England,Draw,High,High,Neutral,Good,Group B,Saint-Étienne,2016
+Poland,Northern Ireland,Won,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group C,Nice,2016
+Germany,Ukraine,Won,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group C,Villeneuve-d'Ascq,2016
+Ukraine,Northern Ireland,Lost,Low,Low,Bad,Bad,Group C,Décines-Charpieu,2016
+Germany,Poland,Draw,High,Mid,Good,Good,Group C,Saint-Denis,2016
+Ukraine,Poland,Lost,Low,Low,Bad,Good,Group C,Marseille,2016
+Northern Ireland,Germany,Lost,Mid,Mid,Neutral,Good,Group C,Paris,2016
+Turkey,Croatia,Lost,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group D,Paris,2016
+Spain,Czech Republic,Won,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group D,Toulouse,2016
+Czech Republic,Croatia,Draw,Low,Mid,Bad,Good,Group D,Saint-Étienne,2016
+Spain,Turkey,Won,Mid,Low,Good,Bad,Group D,Nice,2016
+Czech Republic,Turkey,Lost,Mid,Low,Bad,Bad,Group D,Lens,2016
+Croatia,Spain,Won,High,High,Good,Good,Group D,Bordeaux,2016
+Republic of Ireland,Sweden,Draw,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group E,Saint-Denis,2016
+Belgium,Italy,Lost,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group E,Décines-Charpieu,2016
+Italy,Sweden,Won,High,Mid,Good,Neutral,Group E,Toulouse,2016
+Belgium,Republic of Ireland,Won,Low,Mid,Bad,Neutral,Group E,Bordeaux,2016
+Italy,Republic of Ireland,Lost,High,Low,Good,Bad,Group E,Villeneuve-d'Ascq,2016
+Sweden,Belgium,Lost,Low,High,Bad,Neutral,Group E,Nice,2016
+Austria,Hungary,Lost,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group F,Bordeaux,2016
+Portugal,Iceland,Draw,NoGamePlayed,NoGamePlayed,Neutral,Neutral,Group F,Saint-Étienne,2016
+Iceland,Hungary,Draw,Mid,High,Neutral,Good,Group F,Marseille,2016
+Portugal,Austria,Draw,Mid,Low,Neutral,Bad,Group F,Paris,2016
+Iceland,Austria,Won,Mid,Low,Neutral,Bad,Group F,Saint-Denis,2016
+Hungary,Portugal,Draw,High,Low,Good,Neutral,Group F,Décines-Charpieu,2016
+Switzerland,Poland,Draw,Low,Low,Good,Good,Round of A6,Saint-Étienne,2016
+Wales,Northern Ireland,Won,High,Low,Good,Bad,Round of A6,Paris,2016
+Croatia,Portugal,Lost,High,Mid,Good,Neutral,Round of A6,Lens,2016
+France,Republic of Ireland,Won,Mid,Low,Good,Neutral,Round of A6,Décines-Charpieu,2016
+Germany,Slovakia,Won,Mid,Mid,Good,Neutral,Round of A6,Villeneuve-d'Ascq,2016
+Hungary,Belgium,Lost,High,Mid,Good,Good,Round of A6,Toulouse,2016
+Italy,Spain,Won,Mid,High,Good,Good,Round of A6,Saint-Denis,2016
+England,Iceland,Lost,Mid,Mid,Good,Good,Round of A6,Nice,2016
+Poland,Portugal,Draw,Low,Mid,Good,Good,Quarter-finals,Marseille,2016
+Wales,Belgium,Won,High,High,Good,Good,Quarter-finals,Villeneuve-d'Ascq,2016
+Germany,Italy,Draw,High,Mid,Good,Good,Quarter-finals,Bordeaux,2016
+France,Iceland,Won,High,High,Good,Good,Quarter-finals,Saint-Denis,2016
+Portugal,Wales,Won,Mid,High,Good,Good,Semi-finals,Décines-Charpieu,2016
+Germany,France,Lost,Mid,High,Good,Good,Semi-finals,Marseille,2016
+Portugal,France,Won,Mid,High,Good,Good,Final,Saint-Denis,2016
